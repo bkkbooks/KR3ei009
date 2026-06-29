@@ -1,0 +1,381 @@
+canonical_identifier: bkk:krp/KR3ei009/v1
+canonical_location: https://kanripo.org/bkk/KR3ei009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 女科撮要
+  identifiers:
+    krp: KR3ei009
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei009.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei009_000.yaml, hash: 'sha256:87ae69f2b916df9731a25512c767dc462f6f14d66151477fa94a729a8ffe0391'}
+  - {seq: 1, filename: KR3ei009_001.yaml, hash: 'sha256:e502f27e3a2be12ec5e59aae4a3b1cecc5a225a8c294a81837381abcfd423604'}
+  - {seq: 3, filename: KR3ei009_003.yaml, hash: 'sha256:a3564ff89a7547cd5a20be055aee979d28e7a4bdf2a550f72f30c709d92c60cc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei009_000.markers.yaml, hash: 'sha256:3980337b204f464f699022665cab0a2e214a1fbb4e4307e690859acdc75c6ee6'}
+  - {seq: 1, role: markers, filename: assets/KR3ei009_001.markers.yaml, hash: 'sha256:8e8be71f7d1f0a8be60235d782b059824a659e9df87a64ba074b82d9a861e954'}
+  - {seq: 3, role: markers, filename: assets/KR3ei009_003.markers.yaml, hash: 'sha256:b30cffad574db5871bd6d7aaab9eb228121e8d65675cb5d0ea98d5b312fc360d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei009_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 307
+  label: 前序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 17660
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 3042
+  label: 經候不調
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d3
+    span:
+    - body
+    - 3042
+    - 4640
+  label: 經漏不止
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d4
+    span:
+    - body
+    - 4640
+    - 5765
+  label: 經閉不行
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d5
+    span:
+    - body
+    - 5765
+    - 6595
+  label: 帶下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d6
+    span:
+    - body
+    - 6595
+    - 6918
+  label: 血分水分
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d7
+    span:
+    - body
+    - 6918
+    - 7265
+  label: 小便出血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d8
+    span:
+    - body
+    - 7265
+    - 7621
+  label: 熱入血室
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d9
+    span:
+    - body
+    - 7621
+    - 8325
+  label: 師尼寡婦寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d10
+    span:
+    - body
+    - 8325
+    - 9175
+  label: 歷節痛風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d11
+    span:
+    - body
+    - 9175
+    - 9929
+  label: 流注
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d12
+    span:
+    - body
+    - 9929
+    - 10824
+  label: 瘰癧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d13
+    span:
+    - body
+    - 10824
+    - 12285
+  label: 乳癰乳岩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d14
+    span:
+    - body
+    - 12285
+    - 12900
+  label: 血風瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d15
+    span:
+    - body
+    - 12900
+    - 13563
+  label: 臁瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d16
+    span:
+    - body
+    - 13563
+    - 14740
+  label: 陰瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei009_jc_001-d3d17
+    span:
+    - body
+    - 14740
+    - 17660
+  label: 附方並注
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13737
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1521
+  label: 保胎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d3
+    span:
+    - body
+    - 1521
+    - 2253
+  label: 小產
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d4
+    span:
+    - body
+    - 2253
+    - 3205
+  label: 保產
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d5
+    span:
+    - body
+    - 3205
+    - 3396
+  label: 子死腹中
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d6
+    span:
+    - body
+    - 3396
+    - 3660
+  label: 胎衣不出
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d7
+    span:
+    - body
+    - 3660
+    - 4207
+  label: 交骨不開陰門不閉子宮不收
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d8
+    span:
+    - body
+    - 4207
+    - 5055
+  label: 產後腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d9
+    span:
+    - body
+    - 5055
+    - 5577
+  label: 產後血暈並失血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d10
+    span:
+    - body
+    - 5577
+    - 5871
+  label: 產後發痓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d11
+    span:
+    - body
+    - 5871
+    - 6410
+  label: 產後便血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d12
+    span:
+    - body
+    - 6410
+    - 6685
+  label: 產後大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d13
+    span:
+    - body
+    - 6685
+    - 7091
+  label: 產後寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d14
+    span:
+    - body
+    - 7091
+    - 7530
+  label: 產後咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d15
+    span:
+    - body
+    - 7530
+    - 7926
+  label: 產後瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d16
+    span:
+    - body
+    - 7926
+    - 8596
+  label: 產後瀉痢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei009_jc_003-d4d17
+    span:
+    - body
+    - 8596
+    - 13737
+  label: 附方並注
+  type: section
+  level: 2
+hash: sha256:7637c8449c33b7fbbe4a889d0915845c9f776d2b32fe23b2b7b9b254c4c81a5f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
